@@ -24,6 +24,9 @@ php artisan make:trait UserTrait
 
 Note: Also remember to import the models which are being used in the trait.
 
+Another discussion about trait:
+https://stackoverflow.com/questions/40288657/how-to-make-a-trait-in-laravel
+
 ## Explanation
 
 https://medium.com/cedex-technologies-llp/laravel-5-5-trait-generator-b83202a72294
