@@ -22,6 +22,8 @@ That's it! You're all set to go. Run the `php artisan` command from the Terminal
 php artisan make:trait UserTrait
 ```
 
+Note: Also remember to import the models which are being used in the trait.
+
 ## Explanation
 
 https://medium.com/cedex-technologies-llp/laravel-5-5-trait-generator-b83202a72294
